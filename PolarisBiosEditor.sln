@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolarisBiosEditor", "PolarisBiosEditor.csproj", "{269EEE02-2C77-49AC-8271-62C2BEA0D024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Debug|x64.ActiveCfg = Debug|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Debug|x86.ActiveCfg = Debug|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Debug|x86.Build.0 = Debug|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Release|Any CPU.ActiveCfg = Release|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Release|x64.ActiveCfg = Release|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Release|x86.ActiveCfg = Release|x86
+		{269EEE02-2C77-49AC-8271-62C2BEA0D024}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D3E5D8-3698-47BC-8D17-C243DDDF3734}
+	EndGlobalSection
+EndGlobal
